@@ -85,10 +85,6 @@ Cutting-plan and costing system for aluminum workshops. Turns stock inventory an
   </picture>
 </p>
 
-<p align="center">
-  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=FadiWalid21&bg_color=0b0f1a&color=D4AF37&line=D4AF37&point=ffffff&area=true&area_color=D4AF37&hide_border=true&custom_title=Contribution%20Graph" />
-</p>
-
 ## Currently
 
 - 🔭 Building SaaS products with .NET 10 + Angular
