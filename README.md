@@ -1,15 +1,15 @@
 <!-- Animated header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2BAE85&height=200&section=header&text=Fadi%20Walid&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=20&descColor=ffffff" alt="Fadi Walid header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,100:D4AF37&height=200&section=header&text=Fadi%20Walid&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=20&descColor=ffffff" alt="Fadi Walid header"/>
 </p>
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2BAE85&center=true&vCenter=true&width=640&lines=Software+Engineer;.NET+Core+%7C+Angular;Clean+Architecture+%26+CQRS;Building+SaaS+products+end+to+end" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=D4AF37&center=true&vCenter=true&width=640&lines=Software+Engineer;.NET+Core+%7C+Angular;Clean+Architecture+%26+CQRS;Building+SaaS+products+end+to+end" alt="Typing animation"/>
 </p>
 
 <p align="center">
-  <a href="https://fadi21portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-View-2BAE85?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://fadi21portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-View-D4AF37?style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/fadi-walid21/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:fadiwd21@gmail.com"><img src="https://img.shields.io/badge/Email-fadiwd21%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
@@ -51,7 +51,7 @@ I'm adaptable: when a project calls for a different stack, I learn it and use it
 ### 🌿 Alwadi Alakhder — 🟢 Live
 Brand website for an herbal/wellness company, with scroll-driven animations and canvas image-sequence effects.  
 **Stack:** Angular · GSAP ScrollTrigger · .NET Core  
-[![Visit site](https://img.shields.io/badge/Visit-alwadi--alakhder.com-2BAE85?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alwadi-alakhder.com/)
+[![Visit site](https://img.shields.io/badge/Visit-alwadi--alakhder.com-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=black)](https://alwadi-alakhder.com/)
 
 <!-- Add your screen-recording GIF to assets/alwadi.gif, then delete these comment markers:
 <p align="center">
@@ -75,6 +75,20 @@ Cutting-plan and costing system for aluminum workshops. Turns stock inventory an
 
 > Some projects are private while in development. Happy to walk through the code and architecture in an interview.
 
+## Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FadiWalid21/FadiWalid21/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FadiWalid21/FadiWalid21/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/FadiWalid21/FadiWalid21/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=FadiWalid21&bg_color=0b0f1a&color=D4AF37&line=D4AF37&point=ffffff&area=true&area_color=D4AF37&hide_border=true&custom_title=Contribution%20Graph" />
+</p>
+
 ## Currently
 
 - 🔭 Building SaaS products with .NET 10 + Angular
@@ -82,5 +96,5 @@ Cutting-plan and costing system for aluminum workshops. Turns stock inventory an
 - 💼 Open to full-time roles and freelance projects
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2BAE85,100:0f172a&height=120&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:0b0f1a&height=120&section=footer" alt="Footer"/>
 </p>
