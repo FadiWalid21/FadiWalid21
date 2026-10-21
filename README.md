@@ -59,9 +59,10 @@ Brand website for an herbal/wellness company, with scroll-driven animations and 
 </p>
 -->
 
-### 👥 Kadr — 🛠️ In development
+### 👥 Kadr — 🛠️ In development · 🧪 Live for testing
 HR management SaaS for SMEs. Arabic-first (RTL) with English, built for the Egyptian and Saudi markets.  
-**Stack:** Angular · Tailwind CSS · .NET 10
+**Stack:** Angular · Tailwind CSS · .NET 10  
+[![Try the test build](https://img.shields.io/badge/Test_Build-kadir--teal.vercel.app-D4AF37?style=for-the-badge&logo=vercel&logoColor=black)](https://kadir-teal.vercel.app)
 
 <!-- Add a GIF to assets/kadr.gif, then delete these comment markers:
 <p align="center">
@@ -69,11 +70,12 @@ HR management SaaS for SMEs. Arabic-first (RTL) with English, built for the Egyp
 </p>
 -->
 
-### ✂️ Cutiva — 🛠️ In development
+### ✂️ Cutiva — 🛠️ In development · 🧪 Live for testing
 Cutting-plan and costing system for aluminum workshops. Turns stock inventory and required cuts into kerf-aware cutting plans that report stock used, leftover lengths, unallocated pieces, and estimated material cost, with data-driven product templates for windows and doors.  
-**Stack:** .NET · Clean Architecture · CQRS · MediatR · EF Core
+**Stack:** .NET · Clean Architecture · CQRS · MediatR · EF Core  
+[![Try the test build](https://img.shields.io/badge/Test_Build-cutiva--kappa.vercel.app-D4AF37?style=for-the-badge&logo=vercel&logoColor=black)](https://cutiva-kappa.vercel.app)
 
-> Some projects are private while in development. Happy to walk through the code and architecture in an interview.
+> Kadr and Cutiva are still in development, and the links above are test builds that may change as I ship updates. Source code is private for now, and I'm happy to walk through the code and architecture in an interview.
 
 ## Activity
 
